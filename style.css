@@ -20,7 +20,7 @@ header {
     align-items: center;
     padding: 1rem 2rem;
     border-bottom: 2px solid black;
-    background-image: url("/images/hadestown.jpg");
+    background-image: url("images/hadestown.jpg");
 }
 
 header .logo {
@@ -47,7 +47,7 @@ header .logo {
 }
 
 footer {
-    background-image: url("/images/arcade_carpet.jpg");
+    background-image: url("images/arcade_carpet.jpg");
     padding: 50px;
     text-align: center;
     font-size: 2rem;
@@ -109,7 +109,6 @@ nav a:hover {
 .content .image {
     flex: 1;
     min-height: 300px;
-    background: url("https://media.tenor.com/V0qZyZ4lF-AAAAAC/windowsxp.gif");
     background-size: cover;
 }
 
